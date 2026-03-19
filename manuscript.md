@@ -91,7 +91,7 @@ This study used exclusively publicly available, fully aggregated population-leve
 
 ### Software
 
-All analyses were performed using Python 3.14.3 with pandas 2.3.0, NumPy 2.2.6, SciPy 1.15.3, statsmodels 0.14.4, and matplotlib 3.10.3. Analysis code is available at [repository URL to be added].
+All analyses were performed using Python 3.14.3 with pandas 2.3.0, NumPy 2.2.6, SciPy 1.15.3, statsmodels 0.14.4, and matplotlib 3.10.3. Analysis code is available at https://github.com/rehabilitation-collaboration/yakudoshi-v2.
 
 ---
 
@@ -217,7 +217,7 @@ This research received no external funding.
 
 ## Data Availability
 
-All data used in this study are publicly available from the Japanese Mortality Database (https://www.ipss.go.jp/p-toukei/JMD/index.asp). Analysis code is available at [repository URL to be added].
+All data used in this study are publicly available from the Japanese Mortality Database (https://www.ipss.go.jp/p-toukei/JMD/index.asp). Analysis code is available at https://github.com/rehabilitation-collaboration/yakudoshi-v2.
 
 ## ORCID
 
