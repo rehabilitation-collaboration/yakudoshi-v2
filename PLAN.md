@@ -90,12 +90,12 @@
 - [ ] 参考文献はCrossRef/PubMedで全件検証 → Phase 6で実施
 - [x] STROBE準拠を意識して執筆
 
-### Phase 6: レビュー + 修正（未着手）
-- [ ] CrossRef照合スクリプト実装・実行（前処理パイプライン）
-- [ ] /asura-monju 実行
-- [ ] P1/P2指摘を修正
-- [ ] 必要に応じて再レビュー
-- [ ] PDF生成
+### Phase 6: レビュー + 修正 ✅
+- [x] CrossRef照合スクリプト実装・実行（12本中PASS 10, MANUAL 1, FAIL 0）
+- [x] /asura-monju 実行（P1:0, P2:5, P3:15）
+- [x] P1/P2指摘を修正（全5件対応済み）
+- [x] PDF生成（output/manuscript.pdf）
+- [x] Git init + push（rehabilitation-collaboration/yakudoshi-v2）
 
 ## リスク / Trade-offs
 - 局所比較法はモデルフリーで頑健だが、交絡調整の柔軟性は低い → Poisson回帰で補完
