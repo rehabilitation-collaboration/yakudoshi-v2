@@ -2,6 +2,14 @@
 
 **Running title:** Yakudoshi and mortality in Japan
 
+**Mizuki Shirai, MHS**
+
+Specified Nonprofit Corporation Rehabilitation Collaboration, Suita, Osaka, Japan
+
+**Corresponding author:** Mizuki Shirai, rehabilitation.collaboration@gmail.com
+
+**ORCID:** 0009-0005-3615-0670
+
 ## Abstract
 
 **Background:** Yakudoshi (unlucky years) is a widely held Japanese superstition designating specific ages as periods of heightened vulnerability. Approximately 60% of the Japanese population recognizes yakudoshi, and 44% of those who have experienced a yakudoshi year report taking some form of protective action. Despite its cultural prominence, no epidemiological study has examined whether mortality rates actually increase at yakudoshi ages.
@@ -218,7 +226,3 @@ This research received no external funding.
 ## Data Availability
 
 All data used in this study are publicly available from the Japanese Mortality Database (https://www.ipss.go.jp/p-toukei/JMD/index.asp). Analysis code is available at https://github.com/rehabilitation-collaboration/yakudoshi-v2.
-
-## ORCID
-
-Mizuki Shirai: 0009-0005-3615-0670
